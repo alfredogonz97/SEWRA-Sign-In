@@ -1,5 +1,4 @@
 # SEWRA-Sign-In
-@author: Alfredo Gonzalez
 
 RUN jar files: download java https://www.java.com/en/download/
 
